@@ -1,6 +1,3 @@
-// Stacks HW by Philip Kubiak
-// 3.24.14
-// Prof Friedman
 // Program will use a class to manipulate widget stack.
 // Widgets are received, stored, sold at a markup.
 // Everything is inputted and printed out through the console.

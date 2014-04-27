@@ -1,7 +1,4 @@
-/*	Philip Kubiak
-	4.17.14
-	CIS 4100 w. Prof Friedman
-	Payroll 4.0 Sorting HW
+/*	Payroll 4.0 Sorting
 	Employee and PayrollReport classes.
 	User inputs employee data.
 	Program collects data, calculates overtime pay, sorts it based on name, prints to report file.

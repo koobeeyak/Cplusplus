@@ -1,8 +1,3 @@
-// Philip Kubiak
-// CIS 4100 FMWA
-// Prof Friedman
-// 2.23.14
-// Homework Assignment #1
 // Payroll Report 2.0
 // Program will ask for employee name, hours worked, and rate.
 // Salary will be computed together with overtime.

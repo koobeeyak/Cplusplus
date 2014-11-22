@@ -1,0 +1,13 @@
+Student Grade Report
+
+
+Student's Name     | Student's ID | Student's Grade
+            Philip |         1234 | 94.8
+              Jack |         3243 | 85.2
+              Karl |         2345 | 87.95
+               Joe |         9023 | 71.7
+            Joseph |         1908 | 80.05
+
+Average : 83.94
+Lowest Grade : 71.7
+Highest Grade : 94.8
